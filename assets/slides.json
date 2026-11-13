@@ -1,0 +1,1762 @@
+﻿{
+    "s2":  [
+               {
+                   "name":  "TextBox 1",
+                   "x":  355.6,
+                   "y":  104.7,
+                   "w":  472.3,
+                   "h":  40.5,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Scientific reports",
+                                    "sz":  0,
+                                    "b":  false,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "l"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Picture 4",
+                   "x":  0,
+                   "y":  0,
+                   "w":  1338,
+                   "h":  752.6,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image9.png"
+               },
+               {
+                   "name":  "Picture 6",
+                   "x":  112.7,
+                   "y":  156.1,
+                   "w":  1095.2,
+                   "h":  568.2,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image10.png"
+               },
+               {
+                   "name":  "Picture 8",
+                   "x":  29.3,
+                   "y":  64.3,
+                   "w":  224.7,
+                   "h":  34.9,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image11.png"
+               },
+               {
+                   "name":  "TextBox 9",
+                   "x":  248.8,
+                   "y":  328.7,
+                   "w":  301.8,
+                   "h":  30.4,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Masters_Final_Report",
+                                    "sz":  16.7,
+                                    "b":  false,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Graphic 5",
+                   "x":  1233.7,
+                   "y":  625.1,
+                   "w":  90.8,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image6.svg"
+               },
+               {
+                   "name":  "TextBox 14",
+                   "x":  733.1,
+                   "y":  332.9,
+                   "w":  301.8,
+                   "h":  30.4,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Arizona_Field_Guide",
+                                    "sz":  16.7,
+                                    "b":  false,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "TextBox 21",
+                   "x":  440.8,
+                   "y":  571.8,
+                   "w":  301.8,
+                   "h":  30.4,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Isotope_Project",
+                                    "sz":  16.7,
+                                    "b":  false,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Picture 25",
+                   "x":  344,
+                   "y":  190.4,
+                   "w":  106.1,
+                   "h":  137.1,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image12.png"
+               },
+               {
+                   "name":  "Picture 27",
+                   "x":  533.4,
+                   "y":  419.2,
+                   "w":  116.7,
+                   "h":  152.6,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image13.png"
+               },
+               {
+                   "name":  "Picture 29",
+                   "x":  823.3,
+                   "y":  195.5,
+                   "w":  106.1,
+                   "h":  137.4,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image14.png"
+               }
+           ],
+    "s6":  [
+               {
+                   "name":  "Picture 2",
+                   "x":  0,
+                   "y":  0,
+                   "w":  1338,
+                   "h":  752.6,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image9.png"
+               },
+               {
+                   "name":  "Picture 4",
+                   "x":  109.4,
+                   "y":  151.4,
+                   "w":  1095.2,
+                   "h":  568.2,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image10.png"
+               },
+               {
+                   "name":  "Picture 6",
+                   "x":  26.1,
+                   "y":  70.2,
+                   "w":  316.4,
+                   "h":  26.4,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image21.png"
+               },
+               {
+                   "name":  "Graphic 7",
+                   "x":  1233.7,
+                   "y":  625.1,
+                   "w":  90.8,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image6.svg"
+               },
+               {
+                   "name":  "Picture 9",
+                   "x":  11,
+                   "y":  159,
+                   "w":  203.2,
+                   "h":  187.3,
+                   "r":  352.73,
+                   "t":  "pic",
+                   "img":  "image5.png"
+               },
+               {
+                   "name":  "TextBox 11",
+                   "x":  25.3,
+                   "y":  206.2,
+                   "w":  167.7,
+                   "h":  118.2,
+                   "r":  350.92,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Some of my favourite photos from the field!",
+                                    "sz":  22.3,
+                                    "b":  false,
+                                    "color":  "FF0000",
+                                    "font":  "Dreaming Outloud Pro",
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Picture 13",
+                   "x":  403.3,
+                   "y":  517.4,
+                   "w":  16.7,
+                   "h":  332,
+                   "r":  90,
+                   "t":  "pic",
+                   "img":  "image16.png"
+               },
+               {
+                   "name":  "Rectangle 14",
+                   "x":  218.4,
+                   "y":  193.7,
+                   "w":  946.5,
+                   "h":  469.9,
+                   "r":  0,
+                   "t":  "rect",
+                   "fill":  null,
+                   "line":  false
+               },
+               {
+                   "name":  "Rectangle 21",
+                   "x":  232.2,
+                   "y":  241.3,
+                   "w":  382.6,
+                   "h":  328.8,
+                   "r":  0,
+                   "t":  "rect",
+                   "fill":  "D3E1E3",
+                   "line":  false
+               },
+               {
+                   "name":  "Picture 20",
+                   "x":  245.7,
+                   "y":  252.7,
+                   "w":  354.2,
+                   "h":  265.7,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image22.jfif"
+               },
+               {
+                   "name":  "TextBox 23",
+                   "x":  280.7,
+                   "y":  529.7,
+                   "w":  284.2,
+                   "h":  37.2,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "My first day of field school",
+                                    "sz":  22.3,
+                                    "b":  false,
+                                    "color":  null,
+                                    "font":  "Dreaming Outloud Pro",
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Rectangle 27",
+                   "x":  628.3,
+                   "y":  418.1,
+                   "w":  382.6,
+                   "h":  231,
+                   "r":  0,
+                   "t":  "rect",
+                   "fill":  "D3E1E3",
+                   "line":  false
+               },
+               {
+                   "name":  "Rectangle 29",
+                   "x":  789.7,
+                   "y":  207.4,
+                   "w":  352.1,
+                   "h":  198.3,
+                   "r":  0,
+                   "t":  "rect",
+                   "fill":  "D3E1E3",
+                   "line":  false
+               }
+           ],
+    "s4":  [
+               {
+                   "name":  "Picture 2",
+                   "x":  0,
+                   "y":  0,
+                   "w":  1338,
+                   "h":  752.6,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image9.png"
+               },
+               {
+                   "name":  "Picture 4",
+                   "x":  13.5,
+                   "y":  143.7,
+                   "w":  1095.2,
+                   "h":  568.2,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image10.png"
+               },
+               {
+                   "name":  "Picture 6",
+                   "x":  20.7,
+                   "y":  72,
+                   "w":  349.2,
+                   "h":  30.9,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image17.png"
+               },
+               {
+                   "name":  "Graphic 7",
+                   "x":  1233.7,
+                   "y":  625.1,
+                   "w":  90.8,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image6.svg"
+               },
+               {
+                   "name":  "TextBox 11",
+                   "x":  342.3,
+                   "y":  298.1,
+                   "w":  301.8,
+                   "h":  30.4,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Masters_Research_Presentation",
+                                    "sz":  16.7,
+                                    "b":  false,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "TextBox 15",
+                   "x":  640,
+                   "y":  497.7,
+                   "w":  301.8,
+                   "h":  30.4,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Physics_Project",
+                                    "sz":  16.7,
+                                    "b":  false,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Picture 17",
+                   "x":  720.3,
+                   "y":  418.1,
+                   "w":  141.2,
+                   "h":  79.6,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image18.png"
+               },
+               {
+                   "name":  "Picture 19",
+                   "x":  421.7,
+                   "y":  217.5,
+                   "w":  143,
+                   "h":  80.6,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image19.png"
+               }
+           ],
+    "s1":  [
+               {
+                   "name":  "Picture 4",
+                   "x":  0,
+                   "y":  0,
+                   "w":  1347.3,
+                   "h":  758.2,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image1.png"
+               },
+               {
+                   "name":  "Picture 6",
+                   "x":  685.6,
+                   "y":  56.8,
+                   "w":  131.3,
+                   "h":  66.3,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image2.png"
+               },
+               {
+                   "name":  "Picture 8",
+                   "x":  31.2,
+                   "y":  634.5,
+                   "w":  131.3,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image2.png"
+               },
+               {
+                   "name":  "Picture 10",
+                   "x":  1206.7,
+                   "y":  331.9,
+                   "w":  131.3,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image2.png"
+               },
+               {
+                   "name":  "Picture 12",
+                   "x":  389.4,
+                   "y":  175.6,
+                   "w":  107.6,
+                   "h":  84.7,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image3.png"
+               },
+               {
+                   "name":  "Picture 11",
+                   "x":  749.4,
+                   "y":  166.1,
+                   "w":  113.6,
+                   "h":  80.3,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image4.png"
+               },
+               {
+                   "name":  "Picture 14",
+                   "x":  332.6,
+                   "y":  423.2,
+                   "w":  113.6,
+                   "h":  80.3,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image4.png"
+               },
+               {
+                   "name":  "Picture 16",
+                   "x":  470.4,
+                   "y":  613,
+                   "w":  113.6,
+                   "h":  80.3,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image4.png"
+               },
+               {
+                   "name":  "Picture 18",
+                   "x":  852,
+                   "y":  547.4,
+                   "w":  113.6,
+                   "h":  77.7,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image4.png",
+                   "crop":  [
+                                0,
+                                0,
+                                0,
+                                3.202
+                            ]
+               },
+               {
+                   "name":  "Picture 20",
+                   "x":  908.8,
+                   "y":  360.9,
+                   "w":  113.6,
+                   "h":  80.3,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image4.png"
+               },
+               {
+                   "name":  "Picture 5",
+                   "x":  23.9,
+                   "y":  167,
+                   "w":  280.2,
+                   "h":  258.3,
+                   "r":  351.28,
+                   "t":  "pic",
+                   "img":  "image5.png"
+               },
+               {
+                   "name":  "TextBox 7",
+                   "x":  41.2,
+                   "y":  243.4,
+                   "w":  230,
+                   "h":  145.2,
+                   "r":  350.92,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Welcome to my portfolio!",
+                                    "sz":  22.3,
+                                    "b":  false,
+                                    "color":  "FF0000",
+                                    "font":  "Dreaming Outloud Pro",
+                                    "al":  "ctr"
+                                },
+                                {
+                                    "text":  "Please click on a folder to start browsing my content",
+                                    "sz":  22.3,
+                                    "b":  false,
+                                    "color":  "FF0000",
+                                    "font":  "Dreaming Outloud Pro",
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Graphic 9",
+                   "x":  1233.7,
+                   "y":  625.1,
+                   "w":  90.8,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image6.svg"
+               },
+               {
+                   "name":  "Picture 15",
+                   "x":  1054.5,
+                   "y":  343.7,
+                   "w":  280.2,
+                   "h":  258.3,
+                   "r":  9.73,
+                   "t":  "pic",
+                   "img":  "image5.png"
+               },
+               {
+                   "name":  "TextBox 19",
+                   "x":  1068,
+                   "y":  433.6,
+                   "w":  230,
+                   "h":  118.2,
+                   "r":  9.36,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "If at any point you’d like to return to this screen, press the home button",
+                                    "sz":  22.3,
+                                    "b":  false,
+                                    "color":  "FF0000",
+                                    "font":  "Dreaming Outloud Pro",
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Picture 21",
+                   "x":  1131.1,
+                   "y":  583.1,
+                   "w":  103.8,
+                   "h":  103.8,
+                   "r":  12.16,
+                   "t":  "pic",
+                   "img":  "image7.png",
+                   "crop":  [
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+               }
+           ],
+    "s5":  [
+               {
+                   "name":  "Picture 2",
+                   "x":  0,
+                   "y":  0,
+                   "w":  1338,
+                   "h":  752.6,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image9.png"
+               },
+               {
+                   "name":  "Picture 4",
+                   "x":  13.5,
+                   "y":  143.7,
+                   "w":  1095.2,
+                   "h":  568.2,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image10.png"
+               },
+               {
+                   "name":  "Picture 6",
+                   "x":  20.7,
+                   "y":  72,
+                   "w":  349.2,
+                   "h":  30.9,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image17.png"
+               },
+               {
+                   "name":  "Graphic 7",
+                   "x":  1233.7,
+                   "y":  625.1,
+                   "w":  90.8,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image6.svg"
+               },
+               {
+                   "name":  "Picture 19",
+                   "x":  257,
+                   "y":  195.4,
+                   "w":  824,
+                   "h":  464.7,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image19.png"
+               },
+               {
+                   "name":  "Picture 21",
+                   "x":  31.7,
+                   "y":  155.8,
+                   "w":  203.2,
+                   "h":  187.3,
+                   "r":  352.73,
+                   "t":  "pic",
+                   "img":  "image5.png"
+               },
+               {
+                   "name":  "Picture 8",
+                   "x":  13.5,
+                   "y":  67.7,
+                   "w":  349.2,
+                   "h":  30.9,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image20.png"
+               },
+               {
+                   "name":  "TextBox 3",
+                   "x":  5.1,
+                   "y":  65.5,
+                   "w":  464.3,
+                   "h":  43.9,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Masters_Research_Presentation",
+                                    "sz":  27.9,
+                                    "b":  true,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Picture 14",
+                   "x":  1089.1,
+                   "y":  195.4,
+                   "w":  16.7,
+                   "h":  332,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image16.png"
+               }
+           ],
+    "s9":  [
+               {
+                   "name":  "Picture 2",
+                   "x":  0,
+                   "y":  0,
+                   "w":  1338,
+                   "h":  752.6,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image9.png"
+               },
+               {
+                   "name":  "Picture 4",
+                   "x":  112.7,
+                   "y":  156.1,
+                   "w":  1095.2,
+                   "h":  568.2,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image10.png"
+               },
+               {
+                   "name":  "Picture 10",
+                   "x":  26.3,
+                   "y":  65.7,
+                   "w":  466.5,
+                   "h":  34.8,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image26.png"
+               },
+               {
+                   "name":  "Graphic 6",
+                   "x":  1233.7,
+                   "y":  625.1,
+                   "w":  90.8,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image6.svg"
+               },
+               {
+                   "name":  "Picture 8",
+                   "x":  437.6,
+                   "y":  209.9,
+                   "w":  462.8,
+                   "h":  460.8,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image27.png"
+               },
+               {
+                   "name":  "Picture 3",
+                   "x":  904.9,
+                   "y":  315.7,
+                   "w":  16.7,
+                   "h":  332,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image16.png"
+               },
+               {
+                   "name":  "Picture 12",
+                   "x":  26.3,
+                   "y":  65.7,
+                   "w":  424.2,
+                   "h":  39.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image30.png"
+               }
+           ],
+    "s8":  [
+               {
+                   "name":  "Picture 2",
+                   "x":  0,
+                   "y":  0,
+                   "w":  1338,
+                   "h":  752.6,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image9.png"
+               },
+               {
+                   "name":  "Picture 4",
+                   "x":  112.7,
+                   "y":  156.1,
+                   "w":  1095.2,
+                   "h":  568.2,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image10.png"
+               },
+               {
+                   "name":  "Picture 10",
+                   "x":  26.3,
+                   "y":  65.7,
+                   "w":  466.5,
+                   "h":  34.8,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image26.png"
+               },
+               {
+                   "name":  "Graphic 6",
+                   "x":  1233.7,
+                   "y":  625.1,
+                   "w":  90.8,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image6.svg"
+               },
+               {
+                   "name":  "Picture 8",
+                   "x":  214.2,
+                   "y":  444.9,
+                   "w":  106.5,
+                   "h":  106,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image27.png"
+               },
+               {
+                   "name":  "TextBox 11",
+                   "x":  130.1,
+                   "y":  546.6,
+                   "w":  301.8,
+                   "h":  30.4,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Acland_Acres_Instagram_Post",
+                                    "sz":  16.7,
+                                    "b":  false,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "TextBox 13",
+                   "x":  822,
+                   "y":  520.6,
+                   "w":  301.8,
+                   "h":  30.4,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Fiddle_Jam_Session_Poster",
+                                    "sz":  16.7,
+                                    "b":  false,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Picture 15",
+                   "x":  577.3,
+                   "y":  240.3,
+                   "w":  91.7,
+                   "h":  123,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image28.png"
+               },
+               {
+                   "name":  "TextBox 21",
+                   "x":  478,
+                   "y":  362.2,
+                   "w":  301.8,
+                   "h":  30.4,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Wateraid_Sticker_Sale",
+                                    "sz":  16.7,
+                                    "b":  false,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Picture 23",
+                   "x":  927.4,
+                   "y":  414.6,
+                   "w":  85.3,
+                   "h":  106,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image29.png"
+               }
+           ],
+    "s10":  [
+                {
+                    "name":  "Picture 6",
+                    "x":  0,
+                    "y":  0,
+                    "w":  1338,
+                    "h":  752.6,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image9.png"
+                },
+                {
+                    "name":  "Picture 2",
+                    "x":  106,
+                    "y":  156.9,
+                    "w":  1095.2,
+                    "h":  568.2,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image10.png"
+                },
+                {
+                    "name":  "Picture 4",
+                    "x":  155,
+                    "y":  59.9,
+                    "w":  107,
+                    "h":  37,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image24.png"
+                },
+                {
+                    "name":  "Picture 8",
+                    "x":  23.7,
+                    "y":  66.3,
+                    "w":  269.6,
+                    "h":  35.7,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image31.png"
+                },
+                {
+                    "name":  "Graphic 7",
+                    "x":  1233.7,
+                    "y":  625.1,
+                    "w":  90.8,
+                    "h":  94.5,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image6.svg"
+                },
+                {
+                    "name":  "Picture 10",
+                    "x":  155,
+                    "y":  242,
+                    "w":  168.3,
+                    "h":  119.4,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image32.png"
+                },
+                {
+                    "name":  "TextBox 12",
+                    "x":  88.2,
+                    "y":  330.9,
+                    "w":  301.8,
+                    "h":  30.4,
+                    "r":  0,
+                    "t":  "text",
+                    "runs":  [
+                                 {
+                                     "text":  "Mom_Birthday_Card",
+                                     "sz":  16.7,
+                                     "b":  false,
+                                     "color":  null,
+                                     "font":  null,
+                                     "al":  "ctr"
+                                 }
+                             ]
+                },
+                {
+                    "name":  "Picture 14",
+                    "x":  424.2,
+                    "y":  478.4,
+                    "w":  102.4,
+                    "h":  181.9,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image33.png"
+                },
+                {
+                    "name":  "TextBox 16",
+                    "x":  324.5,
+                    "y":  660.3,
+                    "w":  301.8,
+                    "h":  30.4,
+                    "r":  0,
+                    "t":  "text",
+                    "runs":  [
+                                 {
+                                     "text":  "Norway_Travel_Vlogs",
+                                     "sz":  16.7,
+                                     "b":  false,
+                                     "color":  null,
+                                     "font":  null,
+                                     "al":  "ctr"
+                                 }
+                             ]
+                },
+                {
+                    "name":  "TextBox 20",
+                    "x":  653.6,
+                    "y":  425.8,
+                    "w":  301.8,
+                    "h":  30.4,
+                    "r":  0,
+                    "t":  "text",
+                    "runs":  [
+                                 {
+                                     "text":  "Day_In_The_Life",
+                                     "sz":  16.7,
+                                     "b":  false,
+                                     "color":  null,
+                                     "font":  null,
+                                     "al":  "ctr"
+                                 }
+                             ]
+                },
+                {
+                    "name":  "TextBox 22",
+                    "x":  949.3,
+                    "y":  550.6,
+                    "w":  301.8,
+                    "h":  30.4,
+                    "r":  0,
+                    "t":  "text",
+                    "runs":  [
+                                 {
+                                     "text":  "2025_Christmas_Card",
+                                     "sz":  16.7,
+                                     "b":  false,
+                                     "color":  null,
+                                     "font":  null,
+                                     "al":  "ctr"
+                                 }
+                             ]
+                },
+                {
+                    "name":  "Picture 24",
+                    "x":  1037.6,
+                    "y":  457.2,
+                    "w":  125.3,
+                    "h":  93.4,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image34.png"
+                },
+                {
+                    "name":  "Picture 26",
+                    "x":  753.5,
+                    "y":  240,
+                    "w":  102.2,
+                    "h":  181.9,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image35.png"
+                },
+                {
+                    "name":  "Picture 28",
+                    "x":  78.4,
+                    "y":  452.7,
+                    "w":  226.2,
+                    "h":  208.5,
+                    "r":  352.73,
+                    "t":  "pic",
+                    "img":  "image5.png"
+                }
+            ],
+    "s12":  [
+                {
+                    "name":  "Picture 6",
+                    "x":  0,
+                    "y":  0,
+                    "w":  1338,
+                    "h":  752.6,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image9.png"
+                },
+                {
+                    "name":  "Picture 2",
+                    "x":  106,
+                    "y":  156.9,
+                    "w":  1095.2,
+                    "h":  568.2,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image10.png"
+                },
+                {
+                    "name":  "Picture 4",
+                    "x":  155,
+                    "y":  59.9,
+                    "w":  107,
+                    "h":  37,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image24.png"
+                },
+                {
+                    "name":  "Picture 8",
+                    "x":  23.7,
+                    "y":  66.3,
+                    "w":  269.6,
+                    "h":  35.7,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image31.png"
+                },
+                {
+                    "name":  "Graphic 7",
+                    "x":  1233.7,
+                    "y":  625.1,
+                    "w":  90.8,
+                    "h":  94.5,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image6.svg"
+                },
+                {
+                    "name":  "Picture 14",
+                    "x":  503,
+                    "y":  216.2,
+                    "w":  253,
+                    "h":  449.6,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image33.png"
+                },
+                {
+                    "name":  "Picture 3",
+                    "x":  23.7,
+                    "y":  66.3,
+                    "w":  286.2,
+                    "h":  34.9,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image36.png"
+                },
+                {
+                    "name":  "Picture 9",
+                    "x":  230.4,
+                    "y":  216.2,
+                    "w":  250,
+                    "h":  449.6,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image37.png"
+                },
+                {
+                    "name":  "Picture 13",
+                    "x":  778.6,
+                    "y":  215.4,
+                    "w":  253,
+                    "h":  450.3,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image38.png"
+                },
+                {
+                    "name":  "Picture 17",
+                    "x":  1054.3,
+                    "y":  215.4,
+                    "w":  253,
+                    "h":  450.3,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image39.png",
+                    "crop":  [
+                                 1.787,
+                                 1.766,
+                                 0,
+                                 0
+                             ]
+                },
+                {
+                    "name":  "Picture 21",
+                    "x":  318,
+                    "y":  403.2,
+                    "w":  74.7,
+                    "h":  74.8,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image40.png"
+                },
+                {
+                    "name":  "Picture 25",
+                    "x":  592.2,
+                    "y":  403.2,
+                    "w":  74.7,
+                    "h":  74.8,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image40.png"
+                },
+                {
+                    "name":  "Picture 28",
+                    "x":  867.8,
+                    "y":  403.2,
+                    "w":  74.7,
+                    "h":  74.8,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image40.png"
+                },
+                {
+                    "name":  "Picture 30",
+                    "x":  1143.4,
+                    "y":  403.2,
+                    "w":  74.7,
+                    "h":  74.8,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image40.png"
+                },
+                {
+                    "name":  "Picture 32",
+                    "x":  6.8,
+                    "y":  298.9,
+                    "w":  226.2,
+                    "h":  208.5,
+                    "r":  352.73,
+                    "t":  "pic",
+                    "img":  "image5.png"
+                }
+            ],
+    "s3":  [
+               {
+                   "name":  "TextBox 1",
+                   "x":  355.6,
+                   "y":  104.7,
+                   "w":  472.3,
+                   "h":  40.5,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Scientific reports",
+                                    "sz":  0,
+                                    "b":  false,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "l"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Picture 4",
+                   "x":  0,
+                   "y":  0,
+                   "w":  1338,
+                   "h":  752.6,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image9.png"
+               },
+               {
+                   "name":  "Picture 6",
+                   "x":  112.7,
+                   "y":  156.1,
+                   "w":  1095.2,
+                   "h":  568.2,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image10.png"
+               },
+               {
+                   "name":  "Picture 8",
+                   "x":  29.3,
+                   "y":  64.3,
+                   "w":  224.7,
+                   "h":  34.9,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image11.png"
+               },
+               {
+                   "name":  "Graphic 5",
+                   "x":  1233.7,
+                   "y":  625.1,
+                   "w":  90.8,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image6.svg"
+               },
+               {
+                   "name":  "Picture 25",
+                   "x":  370.7,
+                   "y":  182.8,
+                   "w":  596.6,
+                   "h":  536.8,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image12.png",
+                   "crop":  [
+                                0,
+                                0,
+                                0,
+                                30.336
+                            ]
+               },
+               {
+                   "name":  "Picture 7",
+                   "x":  25.3,
+                   "y":  53.7,
+                   "w":  224.7,
+                   "h":  45.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image15.png"
+               },
+               {
+                   "name":  "TextBox 9",
+                   "x":  22.2,
+                   "y":  62.8,
+                   "w":  301.8,
+                   "h":  43.9,
+                   "r":  0,
+                   "t":  "text",
+                   "runs":  [
+                                {
+                                    "text":  "Masters_Final_Report",
+                                    "sz":  27.9,
+                                    "b":  true,
+                                    "color":  null,
+                                    "font":  null,
+                                    "al":  "ctr"
+                                }
+                            ]
+               },
+               {
+                   "name":  "Picture 12",
+                   "x":  967.3,
+                   "y":  312.7,
+                   "w":  16.7,
+                   "h":  332,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image16.png"
+               },
+               {
+                   "name":  "Picture 15",
+                   "x":  59.9,
+                   "y":  162,
+                   "w":  280.5,
+                   "h":  258.6,
+                   "r":  352.73,
+                   "t":  "pic",
+                   "img":  "image5.png"
+               },
+               {
+                   "name":  "Picture 17",
+                   "x":  998.8,
+                   "y":  350,
+                   "w":  280.5,
+                   "h":  258.6,
+                   "r":  7.27,
+                   "t":  "pic",
+                   "img":  "image5.png"
+               }
+           ],
+    "s7":  [
+               {
+                   "name":  "Picture 2",
+                   "x":  0,
+                   "y":  0,
+                   "w":  1338,
+                   "h":  752.6,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image9.png"
+               },
+               {
+                   "name":  "Picture 8",
+                   "x":  25,
+                   "y":  66.6,
+                   "w":  128.8,
+                   "h":  37,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image23.png"
+               },
+               {
+                   "name":  "Picture 10",
+                   "x":  155,
+                   "y":  59.9,
+                   "w":  107,
+                   "h":  37,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image24.png"
+               },
+               {
+                   "name":  "Graphic 6",
+                   "x":  1233.7,
+                   "y":  625.1,
+                   "w":  90.8,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image6.svg"
+               },
+               {
+                   "name":  "Graphic 14",
+                   "x":  1233.7,
+                   "y":  625.1,
+                   "w":  90.8,
+                   "h":  94.5,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image6.svg"
+               },
+               {
+                   "name":  "Picture 20",
+                   "x":  1131.1,
+                   "y":  583.1,
+                   "w":  103.8,
+                   "h":  103.8,
+                   "r":  12.16,
+                   "t":  "pic",
+                   "img":  "image7.png",
+                   "crop":  [
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+               },
+               {
+                   "name":  "Picture 22",
+                   "x":  109.4,
+                   "y":  151.4,
+                   "w":  1124.3,
+                   "h":  568.2,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image10.png"
+               },
+               {
+                   "name":  "Picture 26",
+                   "x":  1004.5,
+                   "y":  151.4,
+                   "w":  16.7,
+                   "h":  332,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image16.png"
+               },
+               {
+                   "name":  "Picture 28",
+                   "x":  316.7,
+                   "y":  168.1,
+                   "w":  681.6,
+                   "h":  551.4,
+                   "r":  0,
+                   "t":  "pic",
+                   "img":  "image25.png",
+                   "crop":  [
+                                0,
+                                0,
+                                0,
+                                12.434
+                            ]
+               }
+           ],
+    "s13":  [
+                {
+                    "name":  "Picture 6",
+                    "x":  0,
+                    "y":  0,
+                    "w":  1338,
+                    "h":  752.6,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image9.png"
+                },
+                {
+                    "name":  "Picture 2",
+                    "x":  106,
+                    "y":  156.9,
+                    "w":  1095.2,
+                    "h":  568.2,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image10.png"
+                },
+                {
+                    "name":  "Picture 4",
+                    "x":  155,
+                    "y":  59.9,
+                    "w":  107,
+                    "h":  37,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image24.png"
+                },
+                {
+                    "name":  "Picture 8",
+                    "x":  23.7,
+                    "y":  66.3,
+                    "w":  269.6,
+                    "h":  35.7,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image31.png"
+                },
+                {
+                    "name":  "Graphic 7",
+                    "x":  1233.7,
+                    "y":  625.1,
+                    "w":  90.8,
+                    "h":  94.5,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image6.svg"
+                },
+                {
+                    "name":  "Picture 3",
+                    "x":  23.7,
+                    "y":  66.3,
+                    "w":  286.2,
+                    "h":  34.9,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image36.png"
+                },
+                {
+                    "name":  "Picture 5",
+                    "x":  528.6,
+                    "y":  190.7,
+                    "w":  280.7,
+                    "h":  499.8,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image35.png"
+                },
+                {
+                    "name":  "Picture 28",
+                    "x":  631.7,
+                    "y":  403.2,
+                    "w":  74.7,
+                    "h":  74.8,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image40.png"
+                },
+                {
+                    "name":  "Picture 11",
+                    "x":  24.3,
+                    "y":  68.9,
+                    "w":  200.8,
+                    "h":  33.1,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image41.png"
+                },
+                {
+                    "name":  "Picture 15",
+                    "x":  222.4,
+                    "y":  68.1,
+                    "w":  110.4,
+                    "h":  67.7,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image42.png"
+                },
+                {
+                    "name":  "Picture 18",
+                    "x":  257.7,
+                    "y":  151,
+                    "w":  226.2,
+                    "h":  208.5,
+                    "r":  352.73,
+                    "t":  "pic",
+                    "img":  "image5.png"
+                }
+            ],
+    "s11":  [
+                {
+                    "name":  "Picture 6",
+                    "x":  0,
+                    "y":  0,
+                    "w":  1338,
+                    "h":  752.6,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image9.png"
+                },
+                {
+                    "name":  "Picture 2",
+                    "x":  106,
+                    "y":  156.9,
+                    "w":  1095.2,
+                    "h":  568.2,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image10.png"
+                },
+                {
+                    "name":  "Picture 4",
+                    "x":  155,
+                    "y":  59.9,
+                    "w":  107,
+                    "h":  37,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image24.png"
+                },
+                {
+                    "name":  "Picture 8",
+                    "x":  23.7,
+                    "y":  66.3,
+                    "w":  269.6,
+                    "h":  35.7,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image31.png"
+                },
+                {
+                    "name":  "Graphic 7",
+                    "x":  1233.7,
+                    "y":  625.1,
+                    "w":  90.8,
+                    "h":  94.5,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image6.svg"
+                },
+                {
+                    "name":  "Picture 10",
+                    "x":  155,
+                    "y":  242,
+                    "w":  168.3,
+                    "h":  119.4,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image32.png"
+                },
+                {
+                    "name":  "TextBox 12",
+                    "x":  88.2,
+                    "y":  330.9,
+                    "w":  301.8,
+                    "h":  30.4,
+                    "r":  0,
+                    "t":  "text",
+                    "runs":  [
+                                 {
+                                     "text":  "Mothers_Day_Card",
+                                     "sz":  16.7,
+                                     "b":  false,
+                                     "color":  null,
+                                     "font":  null,
+                                     "al":  "ctr"
+                                 }
+                             ]
+                },
+                {
+                    "name":  "Picture 14",
+                    "x":  424.2,
+                    "y":  478.4,
+                    "w":  102.4,
+                    "h":  181.9,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image33.png"
+                },
+                {
+                    "name":  "TextBox 16",
+                    "x":  324.5,
+                    "y":  660.3,
+                    "w":  301.8,
+                    "h":  30.4,
+                    "r":  0,
+                    "t":  "text",
+                    "runs":  [
+                                 {
+                                     "text":  "Norway_Travel_Vlogs",
+                                     "sz":  16.7,
+                                     "b":  false,
+                                     "color":  null,
+                                     "font":  null,
+                                     "al":  "ctr"
+                                 }
+                             ]
+                },
+                {
+                    "name":  "TextBox 20",
+                    "x":  653.6,
+                    "y":  425.8,
+                    "w":  301.8,
+                    "h":  30.4,
+                    "r":  0,
+                    "t":  "text",
+                    "runs":  [
+                                 {
+                                     "text":  "Day_In_The_Life",
+                                     "sz":  16.7,
+                                     "b":  false,
+                                     "color":  null,
+                                     "font":  null,
+                                     "al":  "ctr"
+                                 }
+                             ]
+                },
+                {
+                    "name":  "TextBox 22",
+                    "x":  949.3,
+                    "y":  550.6,
+                    "w":  301.8,
+                    "h":  30.4,
+                    "r":  0,
+                    "t":  "text",
+                    "runs":  [
+                                 {
+                                     "text":  "2025_Christmas_Card",
+                                     "sz":  16.7,
+                                     "b":  false,
+                                     "color":  null,
+                                     "font":  null,
+                                     "al":  "ctr"
+                                 }
+                             ]
+                },
+                {
+                    "name":  "Picture 24",
+                    "x":  1037.6,
+                    "y":  457.2,
+                    "w":  125.3,
+                    "h":  93.4,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image34.png"
+                },
+                {
+                    "name":  "Picture 26",
+                    "x":  753.5,
+                    "y":  240,
+                    "w":  102.2,
+                    "h":  181.9,
+                    "r":  0,
+                    "t":  "pic",
+                    "img":  "image35.png"
+                }
+            ]
+}
