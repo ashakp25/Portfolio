@@ -253,6 +253,7 @@ function openViewer(spec) {
   v.append(bar, body);
   v.addEventListener('mousedown', e => { if (e.target === v || e.target === body) closeViewer(); });
   document.body.append(v);
+  body.scrollTop = 0;
 }
 function closeViewer() { const v = document.getElementById('viewer'); if (v) v.remove(); }
 addEventListener('keydown', e => { if (e.key === 'Escape') closeViewer(); });
@@ -430,3 +431,4 @@ initHome();
 const hp = new URLSearchParams(location.hash.slice(1));
 if (hp.get('folder')) openFolder(hp.get('folder'));
 if (hp.get('file')) openFile(hp.get('file'));
+
